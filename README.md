@@ -1,4 +1,2 @@
-- 👋 Hello, I’m RicKanjilal
-- 👀 I’m interested in AI in python
-- 🌱 I’m currently learning python
-- 📫 Reach me on ric.kanjilal@gmail.com
+# Pytson 1.0
+##Your own programing language like python
